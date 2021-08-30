@@ -1,2 +1,2 @@
 def try_me():
-    return "thanks for using this package!"
+    return "thanks for using this package"
